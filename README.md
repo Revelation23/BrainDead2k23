@@ -58,6 +58,9 @@ The columns and their description: <br/>
 :point_right: **status:** 		Status of placement- Placed/Not placed <br/>
 :point_right: **salary:** 		Salary offered by corporate to candidates <br/>
 
+**If after downloading the dataset, there are only 10 columns, then select the drop-down marked with red in the figure below, and apply "Select All".**
+![select-all](https://user-images.githubusercontent.com/128146627/226792332-9fa6a207-abdf-468b-9f73-b4f7617f0c69.png)
+
 
 **Tools used for analysis:**
 
