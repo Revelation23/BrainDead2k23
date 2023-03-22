@@ -11,8 +11,8 @@
 For **Problem Statement 1**, you are required to submit a concise report in **.pptx or .pdf format**.<br/>
 For **Problem Statement 2**, prepare a report and append it with the report you prepared in problem statement 1. Uplaod your **.iPython notebook** to **Github** and share the link to your repository. Ensure that the **repository is public.** <br/>
 Long story short, create a **single concise report** covering **both** the problem statements (if you have solved both), and upload the code for Problem 2 to Github. <br/>
-Both problems are compulsory. But...<br/>
-You can submit whichever question you can solve. So for eg, if you upload the report for Problem Statement 1, but not the iPython notebook for Problem Statement 2, then your score for Problem 2 will be 0 (Aryabhatta to be blamed). And vice versa. <br/>
+Both problems are **compulsory**. But...<br/>
+You can **submit whichever question** you can solve. So for eg, if you upload the report for Problem Statement 1, but not the iPython notebook for Problem Statement 2, then your score for Problem 2 will be 0 (Aryabhatta to be blamed). And vice versa. <br/>
 
 ---
 
